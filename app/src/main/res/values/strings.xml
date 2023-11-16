@@ -11,7 +11,8 @@
     <string name="grid">Grid</string>
 
 
-    <string name="belajar_git">Second Commit</string>
+    <string name="belajar_git">Second Commit update</string>
+    <string name="new_string">Add New String</string>
 
     <string-array name="data_name">
         <item>Andakara Prastawa</item>
@@ -114,8 +115,3 @@
         <item>14 Januari 2000</item>
         <item>29 Juli 2005</item>
         <item>17 April 1998</item>
-        <item>1 April 2003</item>
-    </string-array>
-
-
-</resources>
