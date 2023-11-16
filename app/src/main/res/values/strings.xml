@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_name">Roster Sea Games</string>
+
+    <string name="roster_name">Nama Roster</string>
+    <string name="description">Deskripsi</string>
+    <string name="height">Tinggi</string>
+    <string name="weight">Berat</string>
+    <string name="birthdate">xx-xx-xxxx</string>
+    <string name="position">Posisi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+
+    <string-array name="data_name">
+        <item>Andakara Prastawa</item>
+        <item>Hardianus</item>
+        <item>Arki Wisnu</item>
+        <item>Brandon Jawanto</item>
+        <item>Abraham Damar</item>
+        <item>Muhammad Arighi</item>
+        <item>Yesaya Saudale</item>
+        <item>Dame Diagne</item>
+        <item>Marques Bolden</item>
+        <item>Derrick Michael</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Andakara Prastawa Dhyaksa (lahir 16 Agustus 1992) merupakan seorang pemain bola basket berkebangsaan Indonesia yang saat ini bermain untuk tim Indonesia Patriots. Di tim tersebut, dia memakai nomor punggung 1. Prastawa memiliki tinggi badan 172 cm dan berat 76 kg. Prastawa juga merupakan pemain lulusan SMA Negeri 3 Jakarta, yang juga merupakan sekolah dari Daniel Timothy Wenas. Pada tahun 2013, dia terpilih sebagai Rookie of The Year dalam NBL tahun 2013.</item>
+        <item>Setelah menjuarai Kejuaraan Liga Bola Basket Indonesia (IBL) 2021 dan meraih penghargaan Most Valuable Player. Hardianus Lakudu berstatus bebas transfer terbatas pada musim panas 2021. Manajemen SM Pertamina sudah mulai membicarakan kontrak baru sepanjang musim ini. Klub pun siap menawarkan kenaikan gaji kepada Hardianus.</item>
+        <item>Arki Dikania Wisnu (lahir 15 Maret 1988) adalah pemain bola basket Indonesia kelahiran Amerika Serikat untuk Satria Muda Pertamina Jakarta di Liga Bola Basket Indonesia. Dia adalah pemain paling berharga (Most Valuable Player) di Liga Bola Basket Indonesia pada tahun 2017 dan anggota tim nasional bola basket Indonesia.Pada upacara pembukaan Pesta Olahraga Asia 2018 yang berlangsung di Stadion Utama Gelora Bung Karno, Arki yang lahir dan tumbuh besar di Amerika Serikat dipercaya sebagai pembaca janji atlet karena memiliki kemampuan bahasa Inggris yang baik.</item>
+        <item>Brandon Jawato merupakan pria kelahiran Santa Monica, California, Amerika Serikat. Akan tetapi, dia memiliki darah Bali dari sang ayah, Nyoman Jawato. Sementara sang ibunda asal Amerika Serikat, Belinda van Dorn. Brandon Jawato sejak kecil tinggal di Amerika Serikat dan mengenal bola basket dari negeri Paman Sam tersebut.</item>
+        <item>Abraham Damar Grahita (lahir 8 Oktober 1995). Grahita lahir di Pangkal Pinang, ibu kota dan kota terbesar Kepulauan Bangka Belitung yang terletak di pesisir tenggara pulau Sumatera. Pelatihnya akhirnya berhasil merekomendasikan Grahita ke Stadium Jakarta, tim profesional yang mengikuti liga bola basket profesional Indonesia, IBL. Melalui Stadium, Grahita mendapatkan beasiswa untuk kuliah di Universitas Esa Unggul dan juga bergabung dengan tim basket sekolah tempat ia bermain hingga menjadi profesional pada tahun 2015.</item>
+        <item>Diketahui, Arighi lahir dari keluarga yang mencintai bola basket. Ayahnya merupakan pelatih basket dan mantan pemain.Lahir di daerah membuatnya tidak menyerah untuk mengejar cita-cita pemain menjadi basket profesional. Terbukti, Arighi mendapat beasiswa penuh untuk mengenyam bangku SMA dan kuliah karena prestasinya di bola basket. Di tengah kesibukannya sebagai atlet, Arighi mampu menyelesaikan kuliahnya lebih cepat, yakni tiga tahun.</item>
+        <item>Pemilik nama lengkap Yesaya Alessandro Michael Joseph Saudale mencuri perhatian sejak bergabung dengan Pelita Jaya Bakrie. Yesaya Saudale turut membantu Pelita Jaya Bakrie juara pada Indonesia Cup 2022. Dia juga turut berperan di timnya hingga memimpin klasemen Indonesian Basketball League (IBL) 2023 hingga seri kelima. Nama Yesaya Saudale juga masuk dalam All Star IBL 2023 dan bermain di Knight Stadium, Semarang, Minggu (19/3/2023). Sebelum bergabung dengan Pelita Jaya, dia berseragam Indonesia Patriots.</item>
+        <item>Pebasket Indonesia kelahiran Senegal, Dame Diagne sekarang sudah menjadi pemimpin Timnas Elite Muda Tanah Air.Sosok yang dinaturalisasi pada Juli 2021 berbarengan dengan Marques Bolden dan Serigne Madou Kane tersebut kini adalah pemain tertua di tim Indonesia Patriots. Ini setelah para pemain Indonesia Patriots lain seperti Yudha Saputera, Muhammad Arighi, hingga Ali Bagir Alhadar sudah direkrut klub-klub IBL. Pada IBL 2023, Indonesia Patriots diisi wajah-wajah baru yang belum memiliki pengalaman. Untuk itulah, Dame Diagne yang sudah dua musim ada di Patriots harus bisa membimbing mereka.</item>
+        <item>Marques Terrell Bolden (lahir 17 April 1998) adalah pemain bola basket profesional Indonesia kelahiran Amerika untuk Milwaukee Bucks dari NBA. Dia bermain basket perguruan tinggi untuk Duke Blue Devils. Di DeSoto High School, Bolden mempunyai rata-rata per game sebesar 23,4 poin, 10,2 rebound, dan 2,6 tembakan yang diblokir sebagai senior, membantu tim memenangkan gelar negara bagian Kelas 6A Texas, sambil mendapatkan Texas Mr. Basketball dan Pemain Terbaik TABC 6A Tahun Ini. Dia mencetak delapan poin dan lima rebound di Jordan Brand Classic 2016 dan mengumpulkan 13 poin serta tujuh papan di McDonalds All-American Game pada tahun yang sama.</item>
+        <item>Derrick Michael Xzavierro adalah salah satu pemain basket diaspora Indonesia yang menarik perhatian dalam dunia olahraga. Lahir pada 25 Mei 1997, Derrick merupakan pemain basket berbakat dengan kualitas yang telah teruji di level internasional. Ia adalah salah satu contoh nyata bagaimana pemain diaspora bisa memberikan kontribusi besar bagi timnas basket Indonesia. Derrick menghabiskan sebagian besar masa remajanya di Amerika Serikat, di mana ia terlibat dalam kompetisi basket tingkat perguruan tinggi dan tergabung di NBA Global Academy sejak 2021. Ia bermain di level NCAA Divisi 1, yang dikenal sebagai salah satu kompetisi basket perguruan tinggi paling kompetitif di dunia. Pengalaman ini membantu mengasah kemampuan dan kualitas permainannya.</item>
+    </string-array>
+
+    <string-array name="data_cover_photo">
+        <item>https://cdn-2.tstatic.net/tribunnews/foto/bank/images/andakara-prastawa-dhyaksa-pelita-jaya-2022.jpg</item>
+        <item>https://cloud.jpnn.com/photo/arsip/normal/2023/01/12/pemain-satria-muda-hardianus-saat-tampil-di-ibl-indonesia-cu-3hpx.jpg</item>
+        <item>https://iblindonesia.com/image/1040x650/20201018190033-5270ddee-e380-4597-98ce-0fffb5d06314.jpeg</item>
+        <item>https://assets.skor.id/crop/0x0:0x0/x/photo/2021/12/08/1075695479.jpg</item>
+        <item>https://image.jpnn.com/resize/1200x800-80/arsip/normal/2022/11/24/abraham-damar-grahita-saat-berseragam-prawira-harum-bandung-qbld.jpg</item>
+        <item>https://iblindonesia.com/image/1040x650/20220405084415-c69e90dd-21e1-4757-8c46-98df09280215.jpeg</item>
+        <item>https://iblindonesia.com/image/1040x650/20220411233124-c8f61d38-7e70-4e5a-95ae-9d138810bb78.jpeg</item>
+        <item>https://iblindonesia.com/image/1040x650/20230605103105-dame.jpg</item>
+        <item>https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/jawapos/2022/07/marques-bolden-FIBA.jpg</item>
+        <item>https://img.okezone.com/content/2022/05/25/36/2599817/profil-derrick-michael-xzavierro-pemain-timnas-basket-indonesia-yang-berpotensi-berkarier-di-nba-jVU0yZykAh.jpg</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://upload.wikimedia.org/wikipedia/commons/b/b5/Andakara_Prastawa_Interview_Trash_Talk_with_Rocky_Padila.jpg</item>
+        <item>https://iblindonesia.com/image/1040x650/20210821200042-92835913-8369-423e-8854-c4102385c2ec.jpeg</item>
+        <item>https://iblindonesia.com/image/1040x650/20220214161826-ba7375f9-3e2b-4d8b-af30-07ec5845962c.jpeg</item>
+        <item>https://cdn.idntimes.com/content-images/community/2021/09/210548124-2586538194986186-7726356381197951170-n-5d40674b5e3e3eeb9e3ef339bb46e4c4-3cc98cafddc33daaf05610205f274b56.jpg</item>
+        <item>https://img.okezone.com/content/2022/07/14/36/2629635/profil-dan-biodata-abraham-damar-grahita-pemain-timnas-basket-indonesia-di-fiba-asia-cup-2022-VMmgNjd3pT.jpg</item>
+        <item>https://www.ligamahasiswa.com/storage/2020/08/Arighi-UPH-1.jpeg</item>
+        <item>https://assets.skor.id/crop/0x9:1080x616/x/photo/2022/01/14/2612142943.jpg</item>
+        <item>https://iblindonesia.com/image/1040x650/20230512175145-daefbe9d-d3b3-4d6d-a373-8187cfd7ecd3.jpeg</item>
+        <item>https://iblindonesia.com/image/1040x650/20210714000329-a6048ca1-6ab7-4716-97dc-8267d6ddf159.jpeg</item>
+        <item>https://image.jpnn.com/resize/1200x800-80/arsip/normal/2022/07/09/derrick-michael-xzavierro-foto-fiba-i7kez-9an2.jpg</item>
+    </string-array>
+
+    <string-array name="data_height">
+        <item>173cm</item>
+        <item>180cm</item>
+        <item>187cm</item>
+        <item>194cm</item>
+        <item>180cm</item>
+        <item>182cm</item>
+        <item>178cm</item>
+        <item>197cm</item>
+        <item>208cm</item>
+        <item>208cm</item>
+    </string-array>
+
+    <string-array name="data_weight">
+        <item>73kg</item>
+        <item>81kg</item>
+        <item>87kg</item>
+        <item>98kg</item>
+        <item>78kg</item>
+        <item>80kg</item>
+        <item>63kg</item>
+        <item>90kg</item>
+        <item>113kg</item>
+        <item>100kg</item>
+    </string-array>
+
+    <string-array name="data_position">
+        <item>Guard</item>
+        <item>Guard</item>
+        <item>Forward</item>
+        <item>Forward</item>
+        <item>Guard</item>
+        <item>Guard</item>
+        <item>Guard</item>
+        <item>Forward</item>
+        <item>Center</item>
+        <item>Center</item>
+    </string-array>
+
+    <string-array name="data_birthdate">
+        <item>16 Agustus 1992</item>
+        <item>7 Maret 1992</item>
+        <item>15 Maret 1988</item>
+        <item>3 Juni 1993</item>
+        <item>8 Oktober 1995</item>
+        <item>12 Februari 1999</item>
+        <item>14 Januari 2000</item>
+        <item>29 Juli 2005</item>
+        <item>17 April 1998</item>
+        <item>1 April 2003</item>
+    </string-array>
+
+
+</resources>

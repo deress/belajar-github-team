@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DetailActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/detail_roster_photo"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:adjustViewBounds="true"
+                android:scaleType="fitXY"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:src="@tools:sample/avatars" />
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/profile_roster_photo"
+                android:layout_width="162dp"
+                android:layout_height="152dp"
+                android:layout_marginTop="115dp"
+                android:scaleType="centerCrop"
+                app:civ_border_color="#FFFFFF"
+                app:civ_border_width="6dp"
+                app:layout_constraintEnd_toEndOf="@+id/detail_roster_photo"
+                app:layout_constraintHorizontal_bias="0.064"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:src="@tools:sample/avatars" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
+        <TextView
+            style="@style/TextContent.HeadlineLarge.Bold"
+            android:id="@+id/detail_roster_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:textColor="@color/seed"
+            tools:text="@string/roster_name" />
+
+        <TextView
+            style="@style/TextContent.HeadlineSmall.Bold"
+            android:id="@+id/detail_roster_position"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:textColor="@color/light_seed"
+            tools:text="@string/position" />
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginBottom="16dp">
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp">
+                <TextView
+                    style="@style/TextContent.BodyMedium.Bold"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="14sp"
+                    android:layout_marginEnd="16dp"
+                    android:text="Berat Badan" />
+                <TextView
+                    style="@style/TextContent.BodyMedium.Gray"
+                    android:id="@+id/detail_roster_weight"
+                    android:layout_weight="1"
+                    android:text="@string/weight" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp">
+                <TextView
+                    style="@style/TextContent.BodyMedium.Bold"
+                    android:layout_marginEnd="16dp"
+                    android:text="Tinggi Badan" />
+                <TextView
+                    style="@style/TextContent.BodyMedium.Gray"
+                    android:id="@+id/detail_roster_height"
+                    android:layout_weight="1"
+                    android:text="@string/height" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp">
+
+                <TextView
+                    style="@style/TextContent.BodyMedium.Bold"
+                    android:layout_marginEnd="16dp"
+                    android:text="Tanggal Lahir"/>
+                <TextView
+                    style="@style/TextContent.BodyMedium.Gray"
+                    android:id="@+id/detail_roster_birthdate"
+                    android:layout_weight="1"
+                    android:text="@string/birthdate"/>
+            </TableRow>
+
+        </TableLayout>
+
+        <TextView
+            style="@style/TextContent.TitleLarge.Bold.MarginLeftRight"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:text="Profil" />
+
+        <TextView
+            style="@style/TextContent.BodyMedium.Gray.MarginLeftRight"
+            android:id="@+id/detail_roster_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:text="@string/description" />
+
+
+    </LinearLayout>
+</ScrollView>

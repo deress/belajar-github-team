@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/light_blue"
+    tools:context=".AboutProfile">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/img_author_photo"
+        android:layout_width="162dp"
+        android:layout_height="152dp"
+        android:adjustViewBounds="false"
+        android:cropToPadding="false"
+        android:scaleType="centerCrop"
+        android:src="@drawable/author"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.13999999" />
+
+    <TextView
+        android:id="@+id/tv_author_email"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:textColor="@color/colorSubtitle"
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="@+id/tv_author_name"
+        app:layout_constraintStart_toStartOf="@+id/tv_author_name"
+        app:layout_constraintTop_toBottomOf="@+id/tv_author_name"
+        android:text="idrismuhammad257@gmail.com" />
+
+    <TextView
+        android:id="@+id/tv_author_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="26dp"
+        android:layout_toEndOf="@id/img_author_photo"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="@color/seed"
+        app:layout_constraintEnd_toEndOf="@+id/img_author_photo"
+        app:layout_constraintStart_toStartOf="@+id/img_author_photo"
+        app:layout_constraintTop_toBottomOf="@+id/img_author_photo"
+        android:text="Idris Muhammad" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
