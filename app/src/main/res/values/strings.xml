@@ -10,6 +10,9 @@
     <string name="list">List</string>
     <string name="grid">Grid</string>
 
+
+    <string name="belajar_git">Second Commit</string>
+
     <string-array name="data_name">
         <item>Andakara Prastawa</item>
         <item>Hardianus</item>
