@@ -15,6 +15,9 @@
         android:theme="@style/Theme.RosterSeaGames"
         tools:targetApi="31">
         <activity
+            android:name=".ChatbotActivity"
+            android:exported="false" />
+        <activity
             android:name=".YogiFeature"
             android:exported="false" />
         <activity
@@ -22,7 +25,7 @@
             android:exported="false" />
         <activity
             android:name=".DetailActivity"
-            android:exported="false"/>
+            android:exported="false" />
         <activity
             android:name=".AboutProfile"
             android:exported="false" />
