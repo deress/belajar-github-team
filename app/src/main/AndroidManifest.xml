@@ -15,7 +15,11 @@
         android:theme="@style/Theme.RosterSeaGames"
         tools:targetApi="31">
         <activity
+<<<<<<< HEAD
+            android:name=".YogiFeature"
+=======
             android:name=".FavoriteActivity"
+>>>>>>> 7c3056c051057a3ce438c1563fe5795be5238aa5
             android:exported="false" />
         <activity android:name=".DetailActivity" />
         <activity
