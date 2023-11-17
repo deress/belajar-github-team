@@ -18,6 +18,9 @@
             android:name=".BeasiswaActivity"
             android:exported="false" />
         <activity
+            android:name=".ChatbotActivity"
+            android:exported="false" />
+        <activity
             android:name=".YogiFeature"
             android:exported="false" />
         <activity
