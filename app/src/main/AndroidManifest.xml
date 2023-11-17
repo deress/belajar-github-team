@@ -15,7 +15,9 @@
         android:theme="@style/Theme.RosterSeaGames"
         tools:targetApi="31">
         <activity
-            android:name=".DetailActivity" />
+            android:name=".FavoriteActivity"
+            android:exported="false" />
+        <activity android:name=".DetailActivity" />
         <activity
             android:name=".AboutProfile"
             android:exported="false" />
